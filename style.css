@@ -1,0 +1,78 @@
+html{
+  background-color: #FFDD39;
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+  font-size: 20px;
+  text-align: justify;
+}
+
+p{text-indent: 1em;}
+h1{font-size: 1.8rem; text-align: left; margin: 1em;}
+h2{font-size: 1.4rem; text-align: left;}
+h3{font-size: 1.2rem; text-align: left;}
+
+.summary{text-align: center;}
+.main p{line-height: 1.5;}
+ 
+
+.destaque{
+  color: #615EAA;
+}
+
+abbr{font-variant:small-caps;}
+
+.page-wrapper{
+  width: 80%;
+  max-width: 1280px;
+  margin-left: 10%;
+} 
+
+.intro{
+  height: 550px;
+}
+
+header{background-color: black; color: white; 
+}
+
+h1, h2{display: inline;}
+
+
+
+aside ul li{
+  text-align: center;
+  margin: 1em;
+}
+aside ul{
+  list-style-type: none;
+}
+.select{text-align: center;}
+.resources{text-align: center;}
+
+.main footer{
+  margin:2%
+}
+
+.main footer a{
+  border:solid 2px; color: blue;
+  padding: 0.5em;
+  display: inline-block;
+}
+
+.page-wrapper{
+    position: absolute;
+}
+
+.explanation{
+  position: relative; 
+  width: 60%;
+  max-width: 1280px;
+  margin-right: 35%;
+  border-right: 1px; color: #1f295c;
+}
+
+.design-selection{
+  position: relative; bottom: 1590px; 
+  padding-left: 2%;
+  margin: auto;
+  left: 30%;
+}
